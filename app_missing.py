@@ -1,21 +1,22 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import io
+#import io
 import matplotlib.pyplot as plt
 import seaborn as sns
-from pycaret.anomaly import *
+from pycaret.anomaly import load_model, predict_model
 import plotly.express as px
+import plotly.graph_objects as go
 
 st.set_option('deprecation.showfileUploaderEncoding', False)
 
 st.title("Missing Value and Outlier Data Analysis")
-st.sidebar.title("Missing and Outlier data Analysis")
+st.sidebar.title("Missing data Analysis")
 
 st.markdown("This application is a dashboard to analyze the missing and Outlier Data Analysis 🧑‍🔬")
 
 upload_data = st.sidebar.file_uploader("Upload a Dataset", type=["csv","txt"])
-text_io = io.TextIOWrapper(upload_data)
+#text_io = io.TextIOWrapper(upload_data)
 
 model_1 = load_model('DM_SVM_Breast_Cancer')
 model_2 = load_model('DS_SVM_Breast_Cancer')
@@ -67,111 +68,118 @@ if upload_data is not None:
         st.write(chart)
         st.pyplot()
 
+
+st.sidebar.title("Outlier data Analysis")
+
+upload_data_out = st.sidebar.file_uploader("Upload a Dataset to detect outlier", type=["csv","txt"])
+
+if upload_data_out is not None:
+    df_out = pd.read_csv(upload_data_out)
+    st.dataframe(df_out)
+
+    if df_out["DOMAIN"][0] == 'DM':
+        predictions = predict_model(model_1, data=df_out)
+            
+        st.markdown("## Potential Outliers")
+
+        # The outlier's in a dataset are
+        outlier = predictions['Label'] == 1
+        st.write(predictions[outlier])
+
+        df_pred = pd.DataFrame(predictions)
+
+        fig = px.scatter(df_pred, x ='Score',y='Score',color='Label')
     
-    if df["DOMAIN"][0] == 'DM':
-        predictions = predict_model(model_1, data=df)
-        
-        st.markdown("## Potential Outliers")
-
-        # The outlier's in a dataset are
-        outlier = predictions['Label'] == 1
-        st.write(predictions[outlier])
-
-        df = pd.DataFrame(predictions)
-
-        fig = px.scatter(df, x ='Score',y='Score',color='Label')
- 
         st.plotly_chart(fig)
 
-       
-
-    elif df["DOMAIN"][0] == 'DS':
-        predictions = predict_model(model_2, data=df)
         
+    if df_out["DOMAIN"][0] == 'DS':
+        predictions = predict_model(model_2, data=df_out)
+            
         st.markdown("## Potential Outliers")
 
         # The outlier's in a dataset are
         outlier = predictions['Label'] == 1
         st.write(predictions[outlier])
 
-        df = pd.DataFrame(predictions)
+        df_pred = pd.DataFrame(predictions)
 
-        fig = px.scatter(df, x ='Score',y='Score',color='Label')
+        fig = px.scatter(df_pred, x ='Score',y='Score',color='Label')
 
         st.plotly_chart(fig)
 
 
-    elif df["DOMAIN"][0] == 'MI':
-        predictions = predict_model(model_2, data=df)
-        
+    if df_out["DOMAIN"][0] == 'MI':
+        predictions = predict_model(model_3, data=df_out)
+            
         st.markdown("## Potential Outliers")
 
         # The outlier's in a dataset are
         outlier = predictions['Label'] == 1
         st.write(predictions[outlier])
 
-        df = pd.DataFrame(predictions)
+        df_pred = pd.DataFrame(predictions)
 
-        fig = px.scatter(df, x ='Score',y='Score',color='Label')
+        fig = px.scatter(df_pred, x ='Score',y='Score',color='Label')
 
         st.plotly_chart(fig)
 
-    elif df["DOMAIN"][0] == 'PR':
-        predictions = predict_model(model_2, data=df)
-        
+    if df_out["DOMAIN"][0] == 'PR':
+        predictions = predict_model(model_4, data=df_out)
+            
         st.markdown("## Potential Outliers")
 
         # The outlier's in a dataset are
         outlier = predictions['Label'] == 1
         st.write(predictions[outlier])
 
-        df = pd.DataFrame(predictions)
+        df_pred = pd.DataFrame(predictions)
 
-        fig = px.scatter(df, x ='Score',y='Score',color='Label')
+        fig = px.scatter(df_pred, x ='Score',y='Score',color='Label')
 
         st.plotly_chart(fig)
-    
-    elif df["DOMAIN"][0] == 'SS':
-        predictions = predict_model(model_2, data=df)
         
+    if df_out["DOMAIN"][0] == 'SS':
+        predictions = predict_model(model_5, data=df_out)
+            
         st.markdown("## Potential Outliers")
 
         # The outlier's in a dataset are
         outlier = predictions['Label'] == 1
         st.write(predictions[outlier])
 
-        df = pd.DataFrame(predictions)
+        df_pred = pd.DataFrame(predictions)
 
-        fig = px.scatter(df, x ='Score',y='Score',color='Label')
+        fig = px.scatter(df_pred, x ='Score',y='Score',color='Label')
 
         st.plotly_chart(fig)
-    
-    elif df["DOMAIN"][0] == 'TR':
-        predictions = predict_model(model_2, data=df)
         
+    if df_out["DOMAIN"][0] == 'TR':
+        predictions = predict_model(model_6, data=df_out)
+            
         st.markdown("## Potential Outliers")
 
         # The outlier's in a dataset are
         outlier = predictions['Label'] == 1
         st.write(predictions[outlier])
 
-        df = pd.DataFrame(predictions)
+        df_pred = pd.DataFrame(predictions)
 
-        fig = px.scatter(df, x ='Score',y='Score',color='Label')
+        fig = px.scatter(df_pred, x ='Score',y='Score',color='Label')
 
         st.plotly_chart(fig)
 
-    elif df["DOMAIN"][0] == 'TU':
-        predictions = predict_model(model_2, data=df)
-        
+    if df_out["DOMAIN"][0] == 'TU':
+        predictions = predict_model(model_7, data=df_out)
+            
         st.markdown("## Potential Outliers")
 
         # The outlier's in a dataset are
         outlier = predictions['Label'] == 1
         st.write(predictions[outlier])
 
-        df = pd.DataFrame(predictions)
+        df_pred = pd.DataFrame(predictions)
 
-        fig = px.scatter(df, x ='Score',y='Score',color='Label')
+        fig = px.scatter(df_pred, x ='Score',y='Score',color='Label')
 
         st.plotly_chart(fig)
