@@ -6,7 +6,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from pycaret.anomaly import *
 import plotly.express as px
-import plotly.graph_objects as go
 
 st.set_option('deprecation.showfileUploaderEncoding', False)
 
