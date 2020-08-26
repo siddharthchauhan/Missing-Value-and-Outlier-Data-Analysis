@@ -1,0 +1,1429 @@
+STUDYID,DOMAIN,USUBJID,MISEQ,MITESTCD,MITEST,MIORRES,MISTRESC,MISPEC,MILOC
+Breast Diagnosis,MI,BreastDx-01-0001,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0001,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0001,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0002,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0002,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,LOL,BREAD
+Breast Diagnosis,MI,BreastDx-01-0002,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0003,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0003,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0003,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0004,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0004,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0004,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0005,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0005,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0005,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0006,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0006,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0006,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0007,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0007,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0007,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0008,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0008,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0008,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0009,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0009,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0009,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0010,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0010,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0010,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0011,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0011,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0011,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0012,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0012,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0012,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0013,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0013,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0013,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0014,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0014,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0014,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0015,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0015,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0015,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0016,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0016,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0016,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0017,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0017,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0017,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0018,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0018,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0018,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0019,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0019,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0019,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0020,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0020,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0020,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0021,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0021,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0021,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0022,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0022,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0022,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0023,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0023,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0023,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0024,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0024,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0024,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0025,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0025,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0025,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0026,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0026,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0026,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0028,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0028,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0028,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0029,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0029,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0029,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0030,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0030,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0030,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0031,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0031,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0031,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0032,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0032,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0032,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0033,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0033,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0033,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0034,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0034,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0034,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0035,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0035,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0035,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0036,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0036,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0036,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0037,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0037,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0037,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0038,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0038,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0038,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0039,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0039,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0039,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0040,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0040,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0040,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0041,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0041,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0041,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0046,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0046,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0046,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0065,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0065,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0065,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0066,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0066,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0066,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0067,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0067,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0067,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0068,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0068,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0068,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0069,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0069,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0069,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0070,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0070,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0070,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0071,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0071,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0071,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0072,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0072,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0072,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0073,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0073,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0073,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0074,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0074,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+Breast Diagnosis,MI,BreastDx-01-0074,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-01,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-01,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-01,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-02,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-02,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-02,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-03,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-03,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-03,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-04,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-04,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-04,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-06,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-06,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-06,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-07,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-07,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-07,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-08,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-08,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-08,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-09,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-09,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-09,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-11,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-11,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-11,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-12,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-12,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-12,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-13,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-13,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-13,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-14,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-14,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-14,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-15,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-15,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-15,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-17,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-17,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-17,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-18,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-18,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-18,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-19,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-19,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-19,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-20,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-20,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-20,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-21,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-21,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-21,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-22,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-22,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-22,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-23,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-23,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-23,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-24,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-24,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-24,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-25,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-25,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-25,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-26,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-26,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-26,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-27,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-27,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-27,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-28,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-28,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-28,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-29,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-29,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-29,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-30,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-30,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-30,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-31,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-31,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-31,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-32,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-32,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-32,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-33,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-33,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-33,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-34,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-34,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-34,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-35,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-35,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-35,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-36,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-36,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-36,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-37,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-37,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-37,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-39,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-39,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-39,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-40,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-40,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-40,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-41,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-41,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-41,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-42,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-42,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-42,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-43,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-43,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-43,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-44,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-44,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-44,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-45,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-45,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-45,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-46,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-46,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-46,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-47,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-47,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-47,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-48,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-48,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-48,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-49,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-49,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-49,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-50,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-50,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-50,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-51,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-51,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-51,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-52,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-52,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-52,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-53,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-53,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-53,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-54,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-54,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-54,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-55,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-55,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-55,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-56,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-56,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-56,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-57,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-57,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-57,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-58,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-58,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-58,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-59,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-59,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-59,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-60,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-60,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-60,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-61,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-61,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-61,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-62,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-62,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-62,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-63,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-63,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-63,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-64,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-64,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-64,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-65,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-65,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-65,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-66,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-66,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-66,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-67,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-67,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-67,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-68,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-68,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+Breast-MRI-NACT-Pilot,MI,UCSF-BR-68,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1001,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1001,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1001,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1002,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1002,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1002,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1003,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1003,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1003,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1004,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1004,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1004,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1005,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1005,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1005,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1007,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1007,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1007,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1008,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1008,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1008,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1009,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1009,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1009,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1010,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1010,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1010,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1011,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1011,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1011,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1012,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1012,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1012,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1013,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1013,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1013,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1015,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1015,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1015,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1016,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1016,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1016,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1017,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1017,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1017,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1018,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1018,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1018,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1019,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1019,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1019,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1021,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1021,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1021,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1022,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1022,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1022,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1024,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1024,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1024,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1025,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1025,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1025,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1026,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1026,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1026,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1027,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1027,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1027,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1028,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1028,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1028,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1029,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1029,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1029,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1030,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1030,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1030,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1031,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1031,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1031,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1032,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1032,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1032,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1033,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1033,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1033,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1034,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1034,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1034,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1035,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1035,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1035,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1036,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1036,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1036,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1037,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1037,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1037,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1038,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1038,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1038,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1039,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1039,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1039,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1040,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1040,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1040,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1041,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1041,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1041,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1042,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1042,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1042,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1043,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1043,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1043,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1044,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1044,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1044,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1045,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1045,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1045,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1046,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1046,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1046,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1047,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1047,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1047,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1048,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1048,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1048,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1049,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1049,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1049,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1050,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1050,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1050,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1051,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1051,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1051,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1053,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1053,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1053,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1054,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1054,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1054,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1055,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1055,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1055,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1056,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1056,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1056,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1057,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1057,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1057,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1058,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1058,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1058,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1059,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1059,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1059,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1060,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1060,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1060,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1061,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1061,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1061,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1062,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1062,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1062,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1063,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1063,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1063,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1064,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1064,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1064,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1065,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1065,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1065,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1066,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1066,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1066,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1067,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1067,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1067,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1068,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1068,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1068,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1069,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1069,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1069,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1070,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1070,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1070,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1071,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1071,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1071,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1072,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1072,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1072,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1073,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1073,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1073,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1074,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1074,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1074,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1075,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1075,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1075,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1077,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1077,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1077,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1078,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1078,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1078,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1081,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1081,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1081,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1082,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1082,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1082,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1083,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1083,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1083,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1084,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1084,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1084,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1085,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1085,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1085,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1086,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1086,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1086,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1087,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1087,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1087,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1088,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1088,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1088,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1089,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1089,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1089,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1090,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1090,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1090,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1091,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1091,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1091,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1092,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1092,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1092,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1093,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1093,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1093,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1094,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1094,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1094,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1095,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1095,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1095,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1096,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1096,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1096,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1097,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1097,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1097,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1098,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1098,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1098,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1099,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1099,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1099,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1100,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1100,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1100,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1101,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1101,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1101,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1102,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1102,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1102,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1103,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1103,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1103,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1104,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1104,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1104,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1106,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1106,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1106,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1107,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1107,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1107,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1109,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1109,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1109,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1110,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1110,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1110,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1111,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1111,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1111,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1112,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1112,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1112,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1113,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1113,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1113,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1114,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1114,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1114,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1115,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1115,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1115,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1116,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1116,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1116,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1117,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1117,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1117,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1118,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1118,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1118,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1120,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1120,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1120,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1121,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1121,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1121,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1122,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1122,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1122,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1123,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1123,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1123,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1124,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1124,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1124,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1125,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1125,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1125,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1126,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1126,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1126,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1127,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1127,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1127,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1128,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1128,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1128,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1129,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1129,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1129,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1130,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1130,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1130,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1132,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1132,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1132,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1134,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1134,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1134,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1135,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1135,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1135,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1136,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1136,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1136,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1137,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1137,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1137,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1138,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1138,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1138,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1139,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1139,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1139,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1140,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1140,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1140,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1141,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1141,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1141,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1142,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1142,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1142,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1143,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1143,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1143,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1144,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1144,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1144,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1145,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1145,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1145,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1146,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1146,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1146,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1147,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1147,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1147,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1148,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1148,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1148,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1149,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1149,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1149,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1150,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1150,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1150,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1151,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1151,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1151,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1152,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1152,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1152,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1154,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1154,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1154,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1155,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1155,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1155,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1156,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1156,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1156,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1157,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1157,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1157,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1158,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1158,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1158,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1159,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1159,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1159,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1160,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1160,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1160,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1161,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1161,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1161,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1162,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1162,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1162,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1163,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1163,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1163,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1164,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1164,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1164,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1165,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1165,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1165,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1166,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1166,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1166,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1167,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1167,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1167,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1168,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1168,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1168,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1169,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1169,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1169,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1170,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1170,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1170,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1171,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1171,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1171,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1172,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1172,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1172,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1173,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Status Unknown,Estrogen Receptor Status Unknown,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1173,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1173,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Status Unknown,Progesterone Receptor Status Unknown,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1174,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1174,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1174,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1175,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1175,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1175,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1176,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1176,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1176,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1177,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1177,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1177,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1179,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1179,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1179,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1180,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1180,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1180,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1181,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1181,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1181,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1182,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1182,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1182,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1183,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1183,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1183,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1184,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1184,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1184,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1185,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1185,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1185,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1187,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1187,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1187,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1188,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1188,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1188,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1189,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1189,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1189,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1191,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1191,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1191,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1192,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1192,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1192,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1193,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1193,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1193,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1194,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1194,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1194,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1196,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1196,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1196,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1197,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1197,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1197,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1198,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1198,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1198,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1199,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1199,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1199,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1200,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1200,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1200,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1201,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1201,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1201,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1202,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1202,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1202,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1203,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1203,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1203,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1204,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1204,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1204,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1205,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1205,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1205,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1206,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1206,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1206,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1207,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1207,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1207,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1208,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1208,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1208,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1209,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1209,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1209,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1210,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1210,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1210,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1211,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1211,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1211,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1212,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1212,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1212,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1213,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1213,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1213,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1214,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1214,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1214,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1215,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1215,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1215,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1216,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1216,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1216,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1217,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1217,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1217,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1218,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1218,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1218,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1219,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1219,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1219,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1220,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1220,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1220,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1221,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1221,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1221,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1222,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1222,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1222,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1223,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1223,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1223,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1224,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1224,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1224,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1225,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1225,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1225,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1226,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1226,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1226,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1227,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1227,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1227,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1228,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1228,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1228,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1229,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1229,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1229,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1230,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1230,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1230,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1231,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1231,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1231,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1232,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1232,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1232,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1233,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1233,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1233,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1234,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1234,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1234,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1235,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1235,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1235,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1236,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1236,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1236,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1237,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1237,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1237,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1238,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1238,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1238,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1239,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1239,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+I-Spy1,MI,ISPY1_1239,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AO-A03M,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AO-A03M,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AO-A03M,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AO-A03V,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AO-A03V,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AO-A03V,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AO-A0J8,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AO-A0J8,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AO-A0J8,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AO-A0J9,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AO-A0J9,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AO-A0J9,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AO-A0JB,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AO-A0JB,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AO-A0JB,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AO-A0JF,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AO-A0JF,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AO-A0JF,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AO-A0JI,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AO-A0JI,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AO-A0JI,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AO-A0JM,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AO-A0JM,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AO-A0JM,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AO-A129,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AO-A129,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AO-A129,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AO-A12D,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AO-A12D,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AO-A12D,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AO-A12E,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AO-A12E,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AO-A12E,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AO-A12F,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AO-A12F,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AO-A12F,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AO-A12G,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AO-A12G,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AO-A12G,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AQ-A04H,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AQ-A04H,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AQ-A04H,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AR-A1AN,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AR-A1AN,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AR-A1AN,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AR-A1AQ,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AR-A1AQ,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AR-A1AQ,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AR-A1AX,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AR-A1AX,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AR-A1AX,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AR-A24M,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AR-A24M,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AR-A24M,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AR-A24R,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AR-A24R,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AR-A24R,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AR-A24S,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AR-A24S,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AR-A24S,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AR-A24U,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AR-A24U,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AR-A24U,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AR-A24W,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AR-A24W,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AR-A24W,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AR-A24X,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AR-A24X,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AR-A24X,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AR-A254,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AR-A254,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-AR-A254,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0AW,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0AW,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0AW,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0AZ,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0AZ,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0AZ,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0B1,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0B1,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0B1,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0B3,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0B3,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0B3,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0B5,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0B5,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0B5,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0B6,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0B6,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0B6,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0BG,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0BG,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0BG,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0BJ,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0BJ,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0BJ,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0BM,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0BM,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0BM,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0BQ,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0BQ,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0BQ,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0BT,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0BT,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0BT,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0C0,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0C0,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0C0,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0DE,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0DE,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0DE,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0DG,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0DG,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0DG,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0DH,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0DH,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0DH,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0DI,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0DI,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0DI,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0DK,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0DK,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0DK,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0DT,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0DT,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0DT,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0DV,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0DV,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0DV,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0DX,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0DX,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0DX,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0DZ,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0DZ,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0DZ,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0E0,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0E0,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0E0,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0E1,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0E1,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0E1,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0E2,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0E2,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0E2,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0E9,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0E9,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0E9,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0EI,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0EI,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0EI,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0GY,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0GY,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0GY,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0GZ,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0GZ,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0GZ,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0H3,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0H3,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0H3,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0H5,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0H5,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0H5,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0H6,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0H6,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0H6,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0H7,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0H7,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0H7,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0H9,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0H9,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0H9,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0HA,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0HA,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0HA,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0HI,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0HI,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0HI,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0HX,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0HX,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0HX,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0HY,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0HY,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0HY,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0RX,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0RX,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0RX,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0W3,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0W3,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0W3,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0W5,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0W5,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A0W5,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A18F,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A18F,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A18F,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A18H,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A18H,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A18H,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A18I,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A18I,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A18I,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A201,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A201,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A201,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A202,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A202,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A202,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A28Q,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A28Q,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-BH-A28Q,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A105,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A105,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A105,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A107,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A107,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A107,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A108,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A108,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A108,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A109,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A109,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A109,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A10F,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A10F,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A10F,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A14N,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A14N,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A14N,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A14P,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A14P,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A14P,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A14Q,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A14Q,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A14Q,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A14S,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A14S,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A14S,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A14T,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A14T,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A14T,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A14V,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A14V,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A14V,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A14X,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A14X,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A14X,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A14Y,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A14Y,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A14Y,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A14Z,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A14Z,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A14Z,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A150,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A150,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A150,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A152,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A152,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Positive,HER2/Neu Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A152,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A159,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A159,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A159,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A15A,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A15A,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A15A,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A15E,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A15E,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A15E,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A15F,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A15F,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A15F,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A15H,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A15H,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A15H,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A15I,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A15I,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A15I,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A15J,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A15J,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A15J,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A15K,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A15K,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A15K,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A15L,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A15L,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A15L,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A15M,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A15M,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A15M,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A1B1,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A1B1,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A1B1,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A1B5,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A1B5,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A1B5,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A1B6,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A1B6,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A1B6,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A1IE,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A1IE,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A1IE,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A1IG,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A1IG,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A1IG,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A1II,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A1II,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A1II,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A1IJ,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A1IJ,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A1IJ,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A1IK,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A1IK,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A1IK,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A1IN,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A1IN,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A1IN,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A1L7,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A1L7,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A1L7,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A1L9,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A1L9,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A1L9,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A1LG,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A1LG,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-E2-A1LG,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A1IY,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A1IY,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A1IY,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A1IZ,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A1IZ,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A1IZ,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A1J2,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A1J2,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A1J2,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A1J6,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A1J6,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A1J6,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A1OY,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A1OY,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A1OY,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A1OZ,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A1OZ,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A1OZ,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A1P0,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A1P0,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A1P0,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A1P3,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A1P3,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A1P3,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A1P4,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A1P4,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A1P4,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A1PA,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A1PA,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A1PA,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A1PC,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A1PC,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A1PC,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A2FR,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A2FR,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A2FR,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A2FS,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A2FS,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A2FS,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A3E8,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A3E8,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A3E8,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A423,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A423,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-EW-A423,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A5D6,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A5D6,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A5D6,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A5D7,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A5D7,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A5D7,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A5D8,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A5D8,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A5D8,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A5DA,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A5DA,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A5DA,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A5RU,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A5RU,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A5RU,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A5RV,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A5RV,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A5RV,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A5RW,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A5RW,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A5RW,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A5RX,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A5RX,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A5RX,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A5RZ,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A5RZ,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A5RZ,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A66I,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A66I,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A66I,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A66J,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A66J,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A66J,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A66K,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A66K,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A66K,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A66L,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A66L,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A66L,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A66N,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A66N,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A66N,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A66O,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A66O,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Status Unknown,HER2/Neu Status Unknown,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A66O,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A6VO,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Negative,Estrogen Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A6VO,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A6VO,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Negative,Progesterone Receptor Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A6VR,1,ESTRCPT,Estrogen Receptor,Estrogen Receptor Positive,Estrogen Receptor Positive,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A6VR,2,HER2,Human Epidermal Growth Factor Receptor 2,HER2/Neu Negative,HER2/Neu Negative,TISSUE,BREAST
+TCGA-BRCA,MI,TCGA-OL-A6VR,3,PROGESTR,Progesterone Receptor,Progesterone Receptor Positive,Progesterone Receptor Positive,TISSUE,BREAST
