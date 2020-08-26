@@ -13,7 +13,7 @@ st.set_option('deprecation.showfileUploaderEncoding', False)
 st.title("Missing Value and Outlier Data Analysis")
 st.sidebar.title("Missing data Analysis")
 
-st.markdown("This application is a dashboard to analyze the missing and Outlier Data Analysis 🧑‍🔬")
+st.markdown("This application is a dashboard to analyze the missing and Outlier Data Analysis")
 
 upload_data = st.sidebar.file_uploader("Upload a Dataset", type=["csv","txt"])
 #text_io = io.TextIOWrapper(upload_data)
@@ -59,14 +59,49 @@ if upload_data is not None:
         st.markdown("## Rows with missing values")
         display_missing_records = df[df.isna().any(axis=1)]
         st.dataframe(display_missing_records)
+
+    # Display the percentage of missing values
+
+    if st.sidebar.checkbox("Display percentage of missing values"):
+        st.markdown("## Percentage(%) of missing values")
+        total_missing_value = df.isna().sum()
+        shape_rows = len(df)
+        percent_value_column = (total_missing_value/shape_rows)*100
+        #display_percentage_df = pd.DataFrame(percent_value_column, columns =['Percent'])
+        display_percentage_df = percent_value_column.to_frame()
+        display_percentage_df.columns = ['Percent']
+        display_percentage_df.index.names = ['Name']
+        display_percentage_df['Name'] = data_columns
+        display_percentage_df.reset_index(drop=True, inplace=True)
+        display_percentage_df.sort_values(by=['Percent'],ascending=False,inplace=True)
+        cols = ['Name','Percent']
+        st.write(display_percentage_df[cols])
+        #st.write(display_percentage_df)
+
+        # Pie plot for % of missing values
+
+        if st.sidebar.checkbox("Plot percentage of missing values for all columns"):
+            st.markdown("## Pie plot for percentage of missing values")
+            #Transpose_df = display_percentage_df.T 
+            #st.write(Transpose_df)
+            # chart_pie = display_percentage_df.plot(y='Percent', kind='pie', legend=False, use_index=True, figsize=(3, 3),
+            # sort_columns=True, ylabel=display_percentage_df.columns)
+            chart_pie = px.pie(display_percentage_df, values='Percent', names='Name', labels={'Name':'Percent'})
+            chart_pie.update_traces(textposition='inside', textinfo='percent+label')
+            st.plotly_chart(chart_pie)
+        
     
     # Bar plot for number of missing values
 
     if st.sidebar.checkbox("Plot total missing records from all columns"):
         st.markdown("## Bar plot for number of missing values")
-        chart = missing_df.plot.bar(x='Name', y='Count', rot=90, figsize=(10,6),use_index =True, sort_columns=True, legend=True)
-        st.write(chart)
-        st.pyplot()
+        #chart = missing_df.plot.bar(x='Name', y='Count', rot=90, figsize=(10,6),use_index =True, sort_columns=True, legend=True)
+        chart = px.bar(missing_df, x='Name', y='Count', color= 'Count')
+        st.plotly_chart(chart)
+        #st.write(chart)
+        #st.pyplot()
+
+    
 
 
 st.sidebar.title("Outlier data Analysis")
